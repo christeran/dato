@@ -1,4 +1,4 @@
-dato
+Dato
 ====
 This webapp is written in PHP (backend) using Yii 2 Framework, Bootstrap 3 (Frontend) and MSSQL as a database engine.
 
